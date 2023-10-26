@@ -40,7 +40,7 @@ $$
 \begin{aligned}
  H_{ST} &= 8 + 36 = 44(m) \\
     S &= \frac{\sum h + \sum h_{in}}{Q^2} \\
-    &= \frac{27.2 + 2}{2.2489 ^ 2} \\
+    &= \frac{27.2 + 1.5}{2.2489 ^ 2} \\
     &= 5.78 (s^2 / m^5) \\
     \therefore H &= 44 + 5.78 Q^2
 \end{aligned}
@@ -63,7 +63,7 @@ $$
 
 绘制图像如下
 
-![Alt text](figure_f.png)
+![Alt text](figure.png)
 
 此时两水泵参数如下
 
